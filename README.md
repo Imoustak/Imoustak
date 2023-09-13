@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Cloud Architect with a background in DevOps & Site Reliability Engineering interested in Cloud Infrastructure & Architecture, Automation, CI/CD Pipelines & Containerization. I am also a Certified Kubernetes Administrator and AWS Solutions Architect Associate. In my free time, I curate a personal [tech blog](https://devopsmadness.com) and a [medium profile](moustakisioannis.medium.com)
+I am a Cloud Architect with a background in DevOps & Site Reliability Engineering interested in Cloud Infrastructure & Architecture, Automation, CI/CD Pipelines & Containerization. I am also a Certified Kubernetes Administrator and have multiple AWS Certifications. In my free time, I curate a personal [tech blog](https://devopsmadness.com) and a [medium profile](moustakisioannis.medium.com)
 
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ioannis-moustakis/) [Buy me a lollipop](https://www.buymeacoffee.com/mous.io) [Tech Blog](https://www.devopsmadness.com/) [Medium Profile](moustakisioannis.medium.com)
